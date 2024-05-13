@@ -1,0 +1,38 @@
+.aboutme img{
+    border-radius: 50%;
+    height: 200px    ;
+    margin-left: 20px;
+    border-color: blue;
+    border-style: ridge;
+}
+
+body{
+    background-color: rgb(198, 255, 254);
+}   
+.aboutme{
+    border-style: ridge;
+    border-color: blue;
+    border-radius: 20px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.aboutme h3{
+    margin-left: 20px;
+}
+.aboutme p{
+    margin-left: 20px;
+}
+li{
+    font-size: 20px;
+}
+hr{
+    border-color: blue;
+}
+h2{
+    margin-left: 20px;
+    text-align: center;
+}
+h1{
+    margin-left: 20px;
+    text-align: center;
+}
